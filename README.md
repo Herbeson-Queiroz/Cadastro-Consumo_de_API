@@ -1,2 +1,2 @@
 # js-consumindo-dados-api
-Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
+Este foi um projeto desenvolvido em um curso da Alura. O projeto consome e trata dados de uma API, bem como manipula o DOM para o auto preenchimento do formulário.
